@@ -1,7 +1,7 @@
 # simple_led_game
 Holds code for a simple LED game I made. 
 
-![Press the button!](https://github.com/tedmyers/simple_led_game/led_game.jpg "Picture of the Game")
+![Press the button!](https://github.com/tedmyers/simple_led_game/blob/master/led_game.jpg "Picture of the Game")
 
 ## How to Use
 1. Build game on Arduino Protoboard Shield
